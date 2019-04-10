@@ -1,9 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 $config['mysql_host'] = 'localhost';
-$config['mysql_username'] = 'userdb_anda';
+$config['mysql_username'] = 'id7663012_anupanel';
 $config['mysql_password'] = 'passwordb_anda';
-$config['mysql_database'] = 'namadb_anda';
+$config['mysql_database'] = 'id7663012_anumks';
 $config['mysql_driver'] = 'mysqli';
 $config['mysql_charset'] = 'utf8';
 $config['mysql_dbcollat'] = 'utf8_general_ci';
